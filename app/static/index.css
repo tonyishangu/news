@@ -5,7 +5,7 @@
 .container{
     display: flex;
 }
-.col-9{
+.col-md-9{
     overflow: auto;
-    height: 90vh;
+    height: auto;
 }
