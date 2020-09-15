@@ -20,6 +20,9 @@ As a user I like to.... :
 ## Contact Info
 For any question or contributions, please email me at [tonyishangu@gmail.com]
 
+## The application requires the following installations to operate 
+* python3.8
+
 
 ## License
 
